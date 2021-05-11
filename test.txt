@@ -1,1 +1,3 @@
 This is my first text file in my repo called testrepo in lowercase
+
+This line is specially designed for Haqq branch in testrepo.
